@@ -136,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Amalser working!')
+            chalk.green.bold('IMASH BOT IS working!')
         );
     });
     
@@ -262,7 +262,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~_________~ Imash Nidusha ~______~*' +
-                                    '\n*🌀 bot other wise chance to get erorr:*' +
+                                    '\n*🌀 bot other wise chance to get erorr:* wa.me/+94771323434' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
