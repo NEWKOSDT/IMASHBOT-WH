@@ -18,12 +18,12 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Imash Nidusha*
-*owner number wa.me/94771323434*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*IMASH NIDUSHA FERNANDO*
+owner number wa.me/94771323434
 
-**
+FB-https://www.facebook.com/nidusha.fernando
 
-*🥶*
+*IMASH BOT කියන්නෙ අවුරුදු 15වේ සූටි කොල්ලෙක්ගෙ නිර්මාණයක්🥶*
 
 *iMASH BOT IS THE NEW SRI LANKAN BOT*
 `}) 
