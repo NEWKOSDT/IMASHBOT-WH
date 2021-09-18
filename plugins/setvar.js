@@ -17,12 +17,12 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━💘SETVAR💘━━⛦
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 iMASH 𝐛𝐨𝐭.
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦❀━━👾SETVAR👾━━❀⛦
+*HELLO I AM IMASH NIDUSHA.*
   
 *wa.me/𓄂𐌠𐤠𐤵ꓢ𐅒𓀞*
-■□■□■□■□■□■□■□■□■□■□
-All setvars are
+
+```BOT All setvars are```
 
  To change add message
  .setvar ADD_MESSAGE:your message
@@ -90,13 +90,13 @@ All setvars are
  To get a song when your number is mentioned
  .setvar TAG_REPPLY:your jid 
 
-     *happy using imash bot ❣️*
+     *THANCK'S USING IMASH BOT🤖 ❣️*
 
 *Editing And Devaloper : IMA  -  imash nidusha*
 
-*Erorr Fixing : IMASH NIDUSHA💌*
+*Erorr Fixing : IMASH NIDUSHA*
 
-*Supporting : IMASH-BOT 💌*
+*Supporting : IMASH-BOT*
 
 *User Support : iMASH NIDUSHA✨️*
 
