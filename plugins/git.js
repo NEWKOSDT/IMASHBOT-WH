@@ -21,9 +21,9 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Imash Nidusha*
 *owner number wa.me/94771323434*
 
-**
+*අවුරුදු 15වේ හිච්චං කොල්ලෙක්😹*
 
-*🥶*
+*i am Imash Nidusha Fernando,🥶*
 
 *iMASH BOT IS THE NEW SRI LANKAN BOT*
 `}) 
